@@ -1,8 +1,8 @@
 ---
-title: "sample_website"
+title: "This is our testing website"
 ---
 
-This is a Quarto website.
+This is a Test site for trying things out.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

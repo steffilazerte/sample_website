@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+About this awesome test site.
 
 ```{r}
 1 + 1
